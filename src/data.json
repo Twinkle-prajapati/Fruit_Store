@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Orange",
+      "price": "149",
+      "image": "https://www.shutterstock.com/shutterstock/photos/1927497314/display_1500/stock-photo-orange-with-cut-in-half-and-green-leaves-isolated-on-white-background-1927497314.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mango",
+      "price": "99",
+      "image": "https://as1.ftcdn.net/v2/jpg/07/95/58/00/1000_F_795580066_kQpTlrE8qCs7ZUJmZV7PpDmQEgzubzvX.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Apple",
+      "price": "119",
+      "image": "https://as1.ftcdn.net/v2/jpg/07/14/25/78/1000_F_714257869_HEfKlWPvL89KHOGyWtr7dOd54TyvLdnS.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Strawberry",
+      "price": "149",
+      "image": "https://as1.ftcdn.net/v2/jpg/08/33/63/52/1000_F_833635296_ivp0tpcfh3v4yCR3KmdkcASTi7Rkl34Z.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Grapes",
+      "price": "129",
+      "image": "https://as2.ftcdn.net/v2/jpg/06/29/12/11/1000_F_629121120_jaY4XTSKu3760pzB9P8MQ4rGBrCd66vS.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Pineapple",
+      "price": "45",
+      "image": "https://as1.ftcdn.net/v2/jpg/07/40/01/72/1000_F_740017262_vrDkPDxC6ekywXZo3FzvtfrQHK5J2RKL.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Watermelon",
+      "price": "120",
+      "image": "https://t4.ftcdn.net/jpg/07/58/85/81/240_F_758858183_PjvnAfvuoapiUOeugRcc2yfkaqAOeQ3i.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Blueberry",
+      "price": "80",
+      "image": "https://as2.ftcdn.net/v2/jpg/08/07/52/21/1000_F_807522168_Ospo4AnTx5MoUPTPhI83zsGBLSfA4TMg.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Peach",
+      "price": "80",
+      "image": "https://as2.ftcdn.net/v2/jpg/09/09/18/93/1000_F_909189339_HqIP14mlx7vJnGu1XXBoKimRhAJIUtlO.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Muskmelon",
+      "price": "150",
+      "image": "https://as1.ftcdn.net/v2/jpg/07/50/36/94/1000_F_750369408_hvwGuLYpsm1LeJYAchT6EeSiNi20mEqG.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Kiwi",
+      "price": "175",
+      "image": "https://as1.ftcdn.net/v2/jpg/09/07/15/58/1000_F_907155835_yhmQjcNtW9xynOPAEuNieCMqnjyXl6Td.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Pear",
+      "price": "130",
+      "image": "https://as1.ftcdn.net/v2/jpg/08/46/46/38/1000_F_846463814_qbPgWJRBmR7w10vped63aIgczybpUF74.jpg"
+    }
+  ]
+  
