@@ -29,3 +29,8 @@ export const removeitem=(itemid)=>{
     };
 
 }
+
+export const clearCart = () => ({
+    type: "CLEAR_CART"
+  });
+  

@@ -6,7 +6,11 @@ import { useSelector } from 'react-redux';
 import { Link } from "react-router-dom";
 import Badge from '@mui/material/Badge';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
+
 export default function Header() {
+  
+
+  
 
   const getdata = useSelector((state) => state.CartReducer.carts);
     return (
@@ -19,13 +23,14 @@ export default function Header() {
             <Nav.Link as={Link} to="/store">Store</Nav.Link>
             <Nav.Link as={Link} to="/about">About Us</Nav.Link>
           </Nav>
-          <Link to="/cart" className="text-dark d-flex align-items-center position-relative">
+         
+        
+        </Navbar.Collapse>
+        <Link to="/cart" className="text-dark d-flex align-items-end ">
           <Badge badgeContent={getdata.length} color='primary'>
             <ShoppingCartIcon/>
           </Badge>
           </Link>
-        
-        </Navbar.Collapse>
       </Container>
     </Navbar>
   );

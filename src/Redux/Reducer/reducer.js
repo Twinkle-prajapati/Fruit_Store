@@ -54,6 +54,12 @@ export const CartReducer = (state = INIT_STATE, action) => {
         carts: state.carts.filter(item => item.id !== action.payload),
       };
 
+      case "CLEAR_CART":
+        return {
+         
+          carts: [],
+        };
+
     default:
       return state;
   }
