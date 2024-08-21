@@ -8,9 +8,9 @@ import Badge from '@mui/material/Badge';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 
 export default function Header() {
-  
 
-  
+
+
 
   const getdata = useSelector((state) => state.CartReducer.carts);
     return (
@@ -23,8 +23,8 @@ export default function Header() {
             <Nav.Link as={Link} to="/store">Store</Nav.Link>
             <Nav.Link as={Link} to="/about">About Us</Nav.Link>
           </Nav>
-         
-        
+
+
         </Navbar.Collapse>
         <Link to="/cart" className="text-dark d-flex align-items-end ">
           <Badge badgeContent={getdata.length} color='primary'>

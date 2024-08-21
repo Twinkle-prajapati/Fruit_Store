@@ -1,11 +1,11 @@
-import React from "react";
+  import React from "react";
 import Header from "./Header";
 import { Col, Container, Row, Card, Button } from "react-bootstrap";
 import { useDispatch, useSelector } from "react-redux";
 import { additem } from "../Redux/Action/Action";
 import data from "../data.json"
 import { ToastContainer, toast } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css'; 
+import 'react-toastify/dist/ReactToastify.css';
 
 
 
@@ -50,7 +50,7 @@ export default function Store() {
                   <h4>{item.name}</h4>
                   <h5 className="mt-1">{item.price} Rs<span>/{item.volume}</span></h5>
                 </div>
-    
+
                 <Button
                   variant="primary"
                   className="mx-2 mb-3"

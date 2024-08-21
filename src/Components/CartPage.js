@@ -58,7 +58,7 @@ const CartPage = () => {
       }
     });
   };
-  
+
 
   const totalPrice = getdata.reduce((acc, item) => {
     const itemPrice = Number(item.price) * item.quantity;
